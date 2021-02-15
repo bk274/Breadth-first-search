@@ -1,4 +1,4 @@
-# Foobar
+# Breadth First Search
 
 This program tries to solve the Post Correspondence problem according to the following algorithm.
 
